@@ -42,20 +42,30 @@ Define and add the following KPIs to the dashboard:
 Purpose: Understand the size and growth of the electric vehicle market (BEVs and PHEVs).
 Calculation: Count(DOL Vehicle ID).
 
+![KPI1](https://github.com/user-attachments/assets/fd5ed987-3c2c-4f29-ae87-6aaa62efff51)
+
 ##### Average Electric Range
 
 Purpose: Gauge the technological advancements and efficiency of electric vehicles.
 Calculation: Avg(DOL Vehicle ID).
+
+![KPI2](https://github.com/user-attachments/assets/6196350d-0c4c-4ff0-9211-9a8e77a4601c)
 
 ##### Total BEV Vehicles and % of Total BEV Vehicles
 
 Purpose: Analyze the dominance of Battery Electric Vehicles (BEVs).
 Calculation: Create a Restricted Account for BEVs and calculate the percentage relative to total vehicles.
 
+![KPI#](https://github.com/user-attachments/assets/eb4ac351-2efe-45a7-815e-f5d3bf3a6560)
+
 ##### Total PHEV Vehicles and % of Total PHEV Vehicles
 
 Purpose: Understand the market share of Plug-in Hybrid Electric Vehicles (PHEVs).
+
+![KPI4](https://github.com/user-attachments/assets/cf83ad50-8ee6-422c-95a4-ca81011924a5)
+
 Calculation: Create a Restricted Account for PHEVs and calculate the percentage relative to total vehicles.
+
 
 ![Restricted Cal](https://github.com/user-attachments/assets/52496abb-663d-4ac9-bde9-7ecc4eeefe83)
 
